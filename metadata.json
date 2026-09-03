@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack 학업 계획 & 학습 관리",
+  "description": "학업 계획, 과목별 목표, 일간/주간 플래너, 집중 타이머 및 구글 시트 연동을 제공하는 종합 에듀트랙 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
